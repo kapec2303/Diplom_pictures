@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0">
   <diagram name="Страница — 1" id="elwOb8y8fLELGWzAOC3y">
-    <mxGraphModel dx="3914" dy="5507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7000" dy="7507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,7 @@
           <mxGeometry height="60" width="120" x="454.99666666666644" y="79.99777777777763" as="geometry" />
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-59" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;" value="Модуль построения маршрута" vertex="1">
-          <mxGeometry height="220" width="685" x="1360" y="-360" as="geometry" />
+          <mxGeometry height="220" width="685" x="1228.67" y="-370" as="geometry" />
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-60" edge="1" parent="o6-STvmoJW6WqPR7bZdS-59" source="o6-STvmoJW6WqPR7bZdS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="o6-STvmoJW6WqPR7bZdS-66">
           <mxGeometry relative="1" as="geometry" />
@@ -688,7 +688,7 @@
           <mxGeometry height="60" width="120" x="515" y="140" as="geometry" />
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-72" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;" value="Модуль авторизации пользователя" vertex="1">
-          <mxGeometry height="240" width="410" x="1250" y="20" as="geometry" />
+          <mxGeometry height="240" width="410" x="1120" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-100" edge="1" parent="o6-STvmoJW6WqPR7bZdS-72" source="o6-STvmoJW6WqPR7bZdS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -708,7 +708,7 @@
             <Array as="points">
               <mxPoint x="340" y="-20" />
             </Array>
-            <mxPoint x="340" y="-30" as="targetPoint" />
+            <mxPoint x="340" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-74" parent="o6-STvmoJW6WqPR7bZdS-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Метод обработки авторизации" vertex="1">
@@ -740,19 +740,19 @@
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-82" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="o6-STvmoJW6WqPR7bZdS-63" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1430" y="-400" as="sourcePoint" />
+            <mxPoint x="1300" y="-400" as="sourcePoint" />
             <mxPoint x="1490" y="-380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6-STvmoJW6WqPR7bZdS-83" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o6-STvmoJW6WqPR7bZdS-63" value="">
+        <mxCell id="o6-STvmoJW6WqPR7bZdS-83" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1460" y="-400" as="sourcePoint" />
-            <mxPoint x="1490" y="-370" as="targetPoint" />
+            <mxPoint x="1330" y="-400" as="sourcePoint" />
+            <mxPoint x="1328.67" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-86" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="o6-STvmoJW6WqPR7bZdS-68" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1320" y="-190" as="sourcePoint" />
+            <mxPoint x="1200" y="-200" as="sourcePoint" />
             <mxPoint x="1470" y="-220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -782,14 +782,14 @@
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-97" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="o6-STvmoJW6WqPR7bZdS-76" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1220" y="106" as="sourcePoint" />
-            <mxPoint x="1280" y="70" as="targetPoint" />
+            <mxPoint x="1090" y="26" as="sourcePoint" />
+            <mxPoint x="1150" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-99" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="o6-STvmoJW6WqPR7bZdS-74" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1700" y="120" as="sourcePoint" />
-            <mxPoint x="1550" y="150" as="targetPoint" />
+            <mxPoint x="1570" y="40" as="sourcePoint" />
+            <mxPoint x="1420" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6-STvmoJW6WqPR7bZdS-102" edge="1" parent="1" source="o6-STvmoJW6WqPR7bZdS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.637;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="o6-STvmoJW6WqPR7bZdS-3">
