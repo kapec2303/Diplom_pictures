@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0">
   <diagram name="Страница — 1" id="vuQai3NT9SDTO1zib2_9">
-    <mxGraphModel dx="198" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,6 +373,35 @@
         </mxCell>
         <mxCell id="jSfNRpZ242mb0ZPp-IY_-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" value="Визуализация маршрута" vertex="1">
           <mxGeometry height="80" width="105.5" x="2547.44" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="CRDThW4cmrpYu0xIIIoO-7" edge="1" parent="1" source="60VImGUj4TekgAwDLsR6-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="CRDThW4cmrpYu0xIIIoO-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2945" y="730" />
+            </Array>
+            <mxPoint x="3020" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRDThW4cmrpYu0xIIIoO-8" connectable="0" parent="CRDThW4cmrpYu0xIIIoO-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0804" y="1" as="geometry">
+            <mxPoint x="11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRDThW4cmrpYu0xIIIoO-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" value="Масштабирование модели" vertex="1">
+          <mxGeometry height="60" width="123" x="3045" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="CRDThW4cmrpYu0xIIIoO-10" edge="1" parent="1" source="60VImGUj4TekgAwDLsR6-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CRDThW4cmrpYu0xIIIoO-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3020" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRDThW4cmrpYu0xIIIoO-11" connectable="0" parent="CRDThW4cmrpYu0xIIIoO-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.191" y="1" as="geometry">
+            <mxPoint x="22" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRDThW4cmrpYu0xIIIoO-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" value="Манипулирование модели по основным навигационным осям" vertex="1">
+          <mxGeometry height="80" width="210.62" x="2979.9999999999995" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
